@@ -16,4 +16,3 @@ $(document).ready(function () {
   $('DIV.amenities h4').html(amen_lst.join(', '));
   });
 });
-
