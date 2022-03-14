@@ -1,4 +1,4 @@
-# AirBnB Clone - The Console
+# AirBnB Clone - Web dynamic
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
 
 #### Functionalities of this command interpreter:
@@ -160,8 +160,8 @@ Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
 ## Additional Contributors
-Lonzo Rust - [Github](https://github.com/lonzor)
-Bree Browder - [Github](https://github.com/breezybrow)
+1. Lonzo Rust - [Github](https://github.com/lonzor)
+2. Bree Browder - [Github](https://github.com/breebrowder)
 
 Second part of Airbnb: Joann Vuong
 ## License
